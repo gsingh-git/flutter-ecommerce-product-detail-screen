@@ -1,16 +1,15 @@
-# product_detail_sample
+# Product Detail Screen
 
-A new Flutter project.
+A sample project with beautiful product detail screen for shopping app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project consist of product details screen and has below features
 
-A few resources to get you started if this is your first Flutter project:
+- Image Carousel
+- Wave clip 
+- CupertinoActionSheetAction dropdown
+- Single scroll child for similar product list
+- and many more
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Below is the screenshot
