@@ -13,7 +13,7 @@ This project consist of product details screen and has below features
 - and many more
 
 ## Below is the screenshot
-- https://ibb.co/FKcMx7w
-- https://ibb.co/V3zHGRx
-- https://ibb.co/r0N8dZg
-- https://ibb.co/HrZ1Gwc
+![](assets/images/ss-1.jpg)
+![](assets/images/ss-2.jpg)
+![](assets/images/ss-3.jpg)
+![](assets/images/ss-4.jpg)
